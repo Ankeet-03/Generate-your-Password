@@ -58,7 +58,7 @@ copyIcon.addEventListener('click', ()=>{
         setTimeout(()=>{
             copyIcon.innerHTML = "content_copy";
             copyIcon.title = "";
-        }, 3000)
+        }, 1500)
     }
 });
 
